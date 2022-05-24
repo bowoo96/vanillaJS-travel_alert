@@ -17,7 +17,7 @@ button{
 
 header{
     border-bottom: 1px solid #ddd;
-    height: 340px;
+    height: 290px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -56,7 +56,8 @@ header{
 main{
     border:1px solid #ddd;
     height:504px;
-    margin-top:90px;
+    margin-top:40px;
+    /* display: none; */
 }
 main>div{
     padding:70px 50px;
@@ -72,6 +73,11 @@ main>div{
     width:187px;
     height:124px;
     border:1px solid #ddd;
+}
+
+.national-flag>img{
+    width:187px;
+    height:124px;
 }
 
 .info{
@@ -101,4 +107,11 @@ main>div{
     height:365px;
     margin-left: 37px;
     border:1px solid #ddd
+}
+
+.alarm-lvl{
+    height:365px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
