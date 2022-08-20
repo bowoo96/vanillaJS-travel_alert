@@ -10,7 +10,9 @@
     
     ![와이어프레임이미지](./wireframe.png)
     
-- 개발 완료 화면 (netlify 에러 수정후 업로드 예정)
+- 개발 완료 화면 
+    https://vanillajs-travel-alert-bowoo.netlify.app/
+
 <a href="#"></a>
 
 <br />
